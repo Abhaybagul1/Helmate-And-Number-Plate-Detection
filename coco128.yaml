@@ -1,0 +1,6 @@
+train: "C:/project1/myproject/train/images"
+val: "C:/project1/myproject/val/images"
+
+nc: 4
+
+names: ["with helmet", "without helmet", "rider", "number plate"]
